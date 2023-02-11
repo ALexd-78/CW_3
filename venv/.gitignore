@@ -1,5 +1,5 @@
-/bin
-/lib
+#игнорируемые файлы и папки
 /venv
-/.pyvenv.cfg
+/.idea
+/.pyvenv.cach
 pyvenv.cfg
