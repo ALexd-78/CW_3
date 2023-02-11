@@ -1,0 +1,5 @@
+/bin
+/lib
+/venv
+/.pyvenv.cfg
+pyvenv.cfg
